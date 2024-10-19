@@ -1,3 +1,7 @@
 streamlit
 finance-datareader
+yfinance
+transformers
+pandas
+pyupbit
 anthropic
